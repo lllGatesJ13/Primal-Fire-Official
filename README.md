@@ -1,0 +1,1 @@
+This is Primal Fire, an unrealesed game on the rise, we are happy to have you test our game out, just don't take the game file and mark it as yours, in order to get started open this up on your headset and click releases amd then download the file that ends with APK. Have fum!
