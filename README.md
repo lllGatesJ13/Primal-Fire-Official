@@ -30,5 +30,5 @@ In **Primal Fire**, you move like a gorilla — running, climbing, and swinging 
 - Photon PUN 2 asset (free)
 
 ### Setup Instructions
-Go to releases than downlaod the .APK 
+Go to releases than download the .APK 
 then go into Mobile VR Station and open the APK, and bam have fun!
