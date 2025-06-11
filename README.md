@@ -32,3 +32,5 @@ In **Primal Fire**, you move like a gorilla — running, climbing, and swinging 
 ### Setup Instructions
 Go to releases than download the .APK 
 then go into Mobile VR Station and open the APK, and bam have fun!
+
+📄 License: Non-commercial fan project | © 2025 Jackson & Noah Gates | See LICENSE for details
