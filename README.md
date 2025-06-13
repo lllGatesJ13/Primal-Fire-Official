@@ -19,12 +19,6 @@ In **Primal Fire**, you move like a gorilla — running, climbing, and swinging 
 - **Oculus Integration Toolkit**
 - **Custom gun scripts and VR interaction logic**
 
-## 🚀 Getting Started
-
-> **Note:** This is a VR game designed primarily for **Oculus Quest 2 / 3**, but may work on other OpenXR-compatible headsets.
-
-In order to player all that is needed is a VR headset, we mostly target Meta headsets for this game
-
 ### Setup Instructions
 Go to releases than download the .APK 
 then go into Mobile VR Station and open the APK, and bam have fun!
