@@ -23,11 +23,7 @@ In **Primal Fire**, you move like a gorilla — running, climbing, and swinging 
 
 > **Note:** This is a VR game designed primarily for **Oculus Quest 2 / 3**, but may work on other OpenXR-compatible headsets.
 
-### Prerequisites
-- A VR headset (e.g. Meta Quest 2)
-- Unity 2022.x LTS or newer
-- Oculus app and developer mode enabled
-- Photon PUN 2 asset (free)
+In order to player all that is needed is a VR headset, we mostly target Meta headsets for this game
 
 ### Setup Instructions
 Go to releases than download the .APK 
